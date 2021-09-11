@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Zoom IP Theft",
 	"version": "0.1",
-	"description": "Downloads Zoom cloud recordings without permission.",
+	"description": "Displays Zoom recording source.",
 
 	"browser_action": {
 		"browser_style": true,
@@ -13,6 +13,5 @@
 		"js": [ "main.js" ],
 		"matches": [ "*://*.zoom.us/rec/*" ]
 	} ] 
-
 }
 
