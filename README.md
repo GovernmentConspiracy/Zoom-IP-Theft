@@ -1,11 +1,11 @@
 # Zoom IP Theft
 
 An extension which places the video source link at the bottom of any distributed Zoom recording. 
-Any Zoom video you have credential access to can be downloaded.
+Any Zoom video with proper credentials can be downloaded.
 
 Use when the in-browser video player is insufferable, but ask permission from the creator before distributing the source.
 
-This repository is dryly named "Zoom Intellectual Property Theft". 
+This repository is *dryly* named "Zoom Intellectual Property Theft". 
 Do not open a lawsuit.
 
 ## Installation:
