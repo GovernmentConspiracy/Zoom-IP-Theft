@@ -7,7 +7,7 @@ Use when the in-browser video player is insufferable, but ask permission from th
 
 This repository is dryly named "Zoom Intellectual Property Theft". 
 Do not open a lawsuit.
-----
+
 ## Installation:
 ### For Chromium (Chrome, Edge, Brave, etc)
 1. Download the extension pack via `Download ZIP` or `git clone https://github.com/GovernmentConspiracy/Zoom-IP-Theft`.
