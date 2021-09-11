@@ -9,20 +9,32 @@ This repository is *dryly* named "Zoom Intellectual Property Theft".
 Do not open a lawsuit.
 
 ## Installation:
+1. Open the `Code` dropdown menu on the top right.
+2. Download the package through one of the following:
+	* Via `Download ZIP`
+	* Copy and run this line your CLI: `git clone https://github.com/GovernmentConspiracy/Zoom-IP-Theft`.
+3. Unpack the .zip if `Download ZIP` was chosen.
+4. The following steps apply separately to each browser.
 ### For Chromium (Chrome, Edge, Brave, etc)
-1. Download the extension pack via `Download ZIP` or `git clone https://github.com/GovernmentConspiracy/Zoom-IP-Theft`.
-	* Unpack the .zip if `Download ZIP` was chosen.
-2. Open `chrome://extensions` in the address bar.
-3. Enable developer mode.
+1. Open `chrome://extensions` in the address bar.
+2. Enable developer mode.
 	* Refresh the page.
-4. Perform one of the following two options:
+3. Perform one of the following two options:
 	* Drag and drop the extension folder into the page OR
 	* Click 'Load unpacked' and select the extension folder
-5. OPTIONAL. Enable the extension on incognito in `Details > Allow in Private/Incognito`.
+4. OPTIONAL. Enable the extension on incognito in `Details > Allow in Private/Incognito`.
+
+### For Firefox
+1. Open `about:debugging` in the address bar.
+2. Select `This Firefox > Temporary Extensions`
+3. Click on `Load Temporary Add-on`
+4. Navigate to the extension package, and open the `manifest.json` file.
+5. Note: There is no current permanent installation of this extension on Firefox.
+
 
 ## Instructions:
 1. Open a Zoom recording link with the proper login credentials.
 2. To download:
-	- On Windows/Linux, hold `Alt` and press the left mouse button.
-	- On macOS, hold `Option`/`⌥` and press the left mouse button.
+	* On Windows/Linux, hold `Alt` and press the left mouse button.
+	* On macOS, hold `Option`/`⌥` and press the left mouse button.
 3. Save your video.
